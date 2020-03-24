@@ -10,7 +10,7 @@ Analyses tweets according to various criteria (like keywords, hashtags, username
 - Happy
 - Fear  
 
-For example, [#ChineseVirus](https://twitter.com/search?q=%23ChineseVirus&src=typeahead_click) was trending on Twitter. The follwing were the results obtained when 5000 tweets were analysed.
+For example, [#ChineseVirus](https://twitter.com/search?q=%23ChineseVirus&src=typeahead_click) was trending on Twitter. The following were the results obtained when 5000 tweets were analysed.
 
 <p align="center">
   <img width="460" height="300" src="images/example1.png">
